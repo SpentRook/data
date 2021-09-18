@@ -1,4 +1,4 @@
-{"cards":[
+[
     {
         "itemId": 0,
         "itemName":"Bottle of water",
@@ -69,4 +69,4 @@
         "price":1,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     }
-]}
+]
