@@ -1,69 +1,69 @@
 {"cards":[
     {
-        "itemId": 0,
+        "id": 0,
         "itemName":"Bottle of water",
         "stock":10,
         "price":1.5, 
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 1,
+        "id": 1,
         "itemName":"Soda",
         "stock":5,
         "price":3,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 2,
+        "id": 2,
         "itemName":"Sandwich",
         "stock":10,
         "price":3,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 3,
+        "id": 3,
         "itemName":"Cake",
         "stock":9,
         "price":5,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 4,
+        "id": 4,
         "itemName":"Candy",
         "stock":99,
         "price":0.2,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 5,
+        "id": 5,
         "itemName":"Orange juice",
         "stock":13,
         "price":2,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 6,
+        "id": 6,
         "itemName":"Chocolate",
         "stock":33,
         "price":0.5,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 7,
+        "id": 7,
         "itemName":"Sausage pack",
         "stock":16,
         "price":1,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 8,
+        "id": 8,
         "itemName":"Milk",
         "stock":21,
         "price":1.4,
         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et fringilla arcu, eget suscipit tortor. Fusce nec aliquam nibh. Vestibulum pulvinar dui convallis tincidunt ullamcorper."
     },
     {
-        "itemId": 9,
+        "id": 9,
         "itemName":"Cheese",
         "stock":4,
         "price":1,
